@@ -18,7 +18,7 @@ long long calculateTotalHours(vector<int> &piles, int hourly)
         long long totalHour=0;
         for(int i=0;i<piles.size();i++)
         {
-            totalHour += ceil((double)piles[i]/(double)hourly);
+            totalHour =totalHour + ceil((double)piles[i]/(double)hourly);
         }
         return totalHour;
 }
