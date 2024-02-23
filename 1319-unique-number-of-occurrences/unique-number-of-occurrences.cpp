@@ -1,23 +1,14 @@
 class Solution {
 public:
     bool uniqueOccurrences(vector<int>& arr) {
-        unordered_map<int,int> count;
-
-        for(int n : arr)
-        {
-            count[n]++;
-        }
-
-        unordered_set<int> unique;
-
-        for(auto& pair : count)
-        {
-            if(!unique.insert(pair.second).second)
-            {
+        map<int, int> m, occ;
+        for (auto &x : arr)
+            m[x]++;
+        for (auto &x : m) {
+            occ[x.second]++;
+            if (occ[x.second] > 1) 
                 return false;
-            }
         }
-
         return true;
     }
 };
