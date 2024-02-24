@@ -1,8 +1,7 @@
 class Solution {
 public:
     bool checkIfPangram(string sentence) {
-        map<int,int>mp;
-        set<int>st;
+        set<char>st;
         for(int i=0;i<sentence.size();i++)
         {
             st.insert(sentence[i]);
