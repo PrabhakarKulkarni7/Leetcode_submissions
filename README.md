@@ -15,6 +15,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 ## Graph
 |  |
 | ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -24,4 +25,16 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2379-maximum-total-importance-of-roads) |
+## Depth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
