@@ -42,4 +42,8 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
