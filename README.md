@@ -21,6 +21,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2379-maximum-total-importance-of-roads](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -45,5 +46,18 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1293-three-consecutive-odds) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
