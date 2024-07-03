@@ -11,6 +11,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 ## Greedy
 |  |
 | ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -22,6 +23,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -48,6 +50,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1293-three-consecutive-odds) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
 | ------- |
