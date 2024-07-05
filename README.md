@@ -66,6 +66,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 ## Linked List
 |  |
 | ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
