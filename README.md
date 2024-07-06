@@ -72,4 +72,9 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2645-pass-the-pillow) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
