@@ -57,12 +57,14 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 | [1720-crawler-log-folder](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,4 +116,12 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 | [1720-crawler-log-folder](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2846-robot-collisions) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
