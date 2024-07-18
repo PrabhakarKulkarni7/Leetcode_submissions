@@ -95,6 +95,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0007-reverse-integer) |
 | [1642-water-bottles](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2645-pass-the-pillow) |
