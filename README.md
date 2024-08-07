@@ -69,6 +69,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1196-filling-bookcase-shelves) |
@@ -106,6 +107,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
@@ -131,6 +133,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
