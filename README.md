@@ -76,6 +76,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 | [1207-delete-nodes-and-return-forest](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -114,6 +115,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Linked List
 |  |
