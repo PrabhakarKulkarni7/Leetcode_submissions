@@ -71,6 +71,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 | ------- |
 | [0189-rotate-array](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0921-spiral-matrix-iii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -125,6 +126,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -190,6 +192,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/2472-build-a-matrix-with-conditions) |
