@@ -71,6 +71,7 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0921-spiral-matrix-iii](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0921-spiral-matrix-iii) |
@@ -247,4 +248,12 @@ Welcome to the Solutions Repository! This repository aims to provide a collabora
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/PrabhakarKulkarni7/Leetcode_submissions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
